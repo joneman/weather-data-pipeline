@@ -1,0 +1,6 @@
+Average Temperature per City:
+city
+London     8.86
+New York   8.76
+Tokyo      6.68
+Name: temperature_celsius, dtype: float64
